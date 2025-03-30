@@ -1,0 +1,8 @@
+# Nmap 7.94SVN scan initiated Sun Mar 23 19:28:45 2025 as: nmap -sL -n -R -iL ips.txt -oN reverse_dns_results.txt
+Nmap scan report for 37.209.192.9
+Nmap scan report for 37.209.194.9
+Nmap scan report for 37.209.196.9
+Nmap scan report for 156.154.172.82
+Nmap scan report for 156.154.173.82
+Nmap scan report for 156.154.174.82
+# Nmap done at Sun Mar 23 19:28:45 2025 -- 6 IP addresses (0 hosts up) scanned in 0.00 seconds
